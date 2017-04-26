@@ -1,0 +1,1 @@
+This is RDI automation solution only for laptop version.
